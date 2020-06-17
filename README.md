@@ -1,6 +1,8 @@
-# battery_checker
+# battery guard
 
 A new Flutter project.
+
+In this project i have developed an android application to protect battery from overcharge.
 
 ## Getting Started
 
